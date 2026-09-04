@@ -120,7 +120,6 @@ The API is planned around the main functional requirements of the RaceDay system
 | POST | `/api/registrations/{registrationId}/result` | Records a participant's finishing time and position. |
 | GET | `/api/results/me` | Allows a participant to view their own results. |
 
---
 
 ## Project Documentation
 
