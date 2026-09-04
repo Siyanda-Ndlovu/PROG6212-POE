@@ -68,7 +68,7 @@ The SQL script includes:
 - Sample results.
 - Verification queries.
 
--
+
 
 ## API Endpoint Plan
 
