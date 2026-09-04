@@ -69,7 +69,6 @@ The SQL script includes:
 - Verification queries.
 
 
-
 ## API Endpoint Plan
 
 The API is planned around the main functional requirements of the RaceDay system.
