@@ -132,7 +132,7 @@ The folder should contain:
 - `API_Endpoint_Plan.md` or PDF version
 - `RaceDay_Section_C.sql`
 
----
+--
 
 ## Database Setup
 
