@@ -34,7 +34,6 @@ Organisers can:
 - Capture participant finishing times and finishing positions.
 
 
-
 ## Database
 
 The RaceDay database is designed using Microsoft SQL Server and can be created and tested using SQL Server Management Studio (SSMS).
