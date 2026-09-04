@@ -9,7 +9,6 @@ The system is designed to make it easier for Event Organisers to manage events, 
 The project is being developed progressively across multiple parts, following real-world software development practices.
 
 
-
 ## User Roles
 
 ### Participant
