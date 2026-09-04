@@ -33,7 +33,7 @@ Organisers can:
 - View enrolments for their events.
 - Capture participant finishing times and finishing positions.
 
----
+--
 
 ## Database
 
